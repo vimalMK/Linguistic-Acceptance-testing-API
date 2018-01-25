@@ -1,0 +1,1 @@
+wmic process where name="javaw.exe" delete
